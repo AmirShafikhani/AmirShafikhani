@@ -46,30 +46,7 @@ Technology is my passion and will always be, what I love about Technology is tha
 
 <h3>Where to find me</h3>
 
-<a href="https://www.linkedin.com/in/amir-shafikhani-966086261/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/94702044/189377305-7062bbec-ca23-43d9-b37d-da443ea59cb7.png" alt="soheiljafarnejad" height="25" width="25" /></a> &nbsp;
-<a href="mailto:jafarnejad.official@gmail.com" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/94702044/189377332-6de4f1a9-d1b0-49d3-879d-bb1158674e84.png" alt="soheiljafarnejad" height="25" width="25" /></a> &nbsp;
-<a href="https://www.soheiljafarnejad.ir" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/94702044/189378352-1c6cc600-c6a2-431d-9c4d-0b07c0c8d97c.png" alt="soheiljafarnejad" height="25" width="25" /></a> &nbsp;
+<a href="https://www.linkedin.com/in/amir-shafikhani-966086261/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/94702044/189377305-7062bbec-ca23-43d9-b37d-da443ea59cb7.png" alt="amir_shafikhani" height="25" width="25" /></a> &nbsp;
+<a href="mailto:amirshafikhani.official@gmail.com" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/94702044/189377332-6de4f1a9-d1b0-49d3-879d-bb1158674e84.png" alt="amir_shafikhani" height="25" width="25" /></a> &nbsp;
+<a href="https://my-portfolio-amir-sh.vercel.app" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/94702044/189378352-1c6cc600-c6a2-431d-9c4d-0b07c0c8d97c.png" alt="amir_shafikhani" height="25" width="25" /></a> &nbsp;
   
- 
-
-
-<!-- 
-<details>
-  <summary>
-    title
-  </summary>
-  <br/>
-   body
-</details>  
-### I AM Soheil 👋
-🌱 I’m currently learning <br />
-⚡ Fun fact I'm always learning !
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
