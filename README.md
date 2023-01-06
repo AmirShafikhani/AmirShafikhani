@@ -8,11 +8,11 @@ Technology is my passion and will always be, what I love about Technology is tha
 </p>
 
 <details>
-  <summary>
+<!--   <summary> -->
    <h3>
     My github stats
    </h3>
-  </summary>
+<!--   </summary> -->
   <br/>
  
 <img src="https://github-readme-stats.vercel.app/api?username=Soheiljafarnejad" height="180" />
