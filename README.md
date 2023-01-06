@@ -3,7 +3,8 @@
 <p> 
   Welcome to my page ! 
 </br>
-I'm soheil, Computer student interested in the web world. I started my career seriously in 2021 and now I work as a front-end developer. I have a serious passion for learning new things and creating better user interface experiences. Fast load times and lag free interaction , writing clean and efficient code are my highest priorities.
+I'm  Amir Shafikhani, a front-end web developer living in Iran chasing my passion and building my career path.
+Technology is my passion and will always be, what I love about Technology is that it makes us to make a change that really matters, one that really helps people, one that can change lives and make them easier. So, with all that said I am and will be trying to learn more and more about this amazing field of science that I love in order to make all lives around this globe of ours easier, healthier and better.
 </p>
 
 <details>
