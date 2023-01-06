@@ -29,8 +29,8 @@ Technology is my passion and will always be, what I love about Technology is tha
   <img alt="RESTAPI" src="https://img.shields.io/badge/-REST%20API-6B3FE7?&logo=axios&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?&logo=graphql&logoColor=white" />
   <img alt="WebSocket" src="https://img.shields.io/badge/-WebSocket-white?&logo=Socket.IO&logoColor=black" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-1B74BA?&logo=webpack&logoColor=white" />
-  <img alt="babel" src="https://img.shields.io/badge/-babel-F5DA55?&logo=babel&logoColor=black" />
+<!--   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-1B74BA?&logo=webpack&logoColor=white" /> -->
+<!--   <img alt="babel" src="https://img.shields.io/badge/-babel-F5DA55?&logo=babel&logoColor=black" /> -->
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?&logo=redux&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=white" />
   <img alt="Material Ui" src="https://img.shields.io/badge/-Material%20Ui-1a73e8?&logo=mui&logoColor=white" />
