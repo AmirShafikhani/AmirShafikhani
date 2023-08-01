@@ -44,7 +44,7 @@ Technology is my passion and will always be, what I love about Technology is tha
 
 <h3>Where to find me</h3>
 
-<a href="https://www.linkedin.com/in/amir-shafikhani-966086261/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/94702044/189377305-7062bbec-ca23-43d9-b37d-da443ea59cb7.png" alt="amir_shafikhani" height="25" width="25" /></a> &nbsp;
+<a href="https://www.linkedin.com/in/amirshafikhani/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/94702044/189377305-7062bbec-ca23-43d9-b37d-da443ea59cb7.png" alt="amir_shafikhani" height="25" width="25" /></a> &nbsp;
 <a href="mailto:amirshafikhani.official@gmail.com" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/94702044/189377332-6de4f1a9-d1b0-49d3-879d-bb1158674e84.png" alt="amir_shafikhani" height="25" width="25" /></a> &nbsp;
-<a href="https://my-portfolio-amir-sh.vercel.app" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/94702044/189378352-1c6cc600-c6a2-431d-9c4d-0b07c0c8d97c.png" alt="amir_shafikhani" height="25" width="25" /></a> &nbsp;
+<a href="https://amirshafikhani.vercel.app" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/94702044/189378352-1c6cc600-c6a2-431d-9c4d-0b07c0c8d97c.png" alt="amir_shafikhani" height="25" width="25" /></a> &nbsp;
   
