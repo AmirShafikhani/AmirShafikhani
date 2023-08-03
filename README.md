@@ -3,8 +3,7 @@
 <p> 
   Welcome to my page ! 
 </br>
-I'm  Amir Shafikhani, a front-end web developer living in Iran chasing my passion and building my career path.
-Technology is my passion and will always be, what I love about Technology is that it makes us to make a change that really matters, one that really helps people, one that can change lives and make them easier. So, with all that said I am and will be trying to learn more and more about this amazing field of science that I love in order to make all lives around this globe of ours easier, healthier and better.
+I am a 20-year-old individual residing in Iran. chasing my passion and building my career path, eager to embrace new challenges and grow both personally and professionally. I possess strong adaptability and communication skills, enabling effective collaboration with diverse teams. I am driven by a passion for learning and am committed to making a positive impact in any role I undertake. So, with all that said I am and will be trying to learn more and more about this amazing field of science that I love in order to make all lives around this globe of ours easier and better.
 </p>
 
 <details>
