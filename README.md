@@ -5,7 +5,7 @@
 
 <br />
 
-<img src="./assets/terminal.gif" alt="terminal">
+<img src="./assets/terminal-me.gif" alt="terminal">
 
 <br />
 
