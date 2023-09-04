@@ -11,7 +11,7 @@
 
 ## Skills <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="32" height="32" />
 
-  <img alt="skills" src="https://skillicons.dev/icons?i=js,react,nextjs,ts,vite,graphql,redux,git,materialui,bootstrap,tailwind,sass,css,html" />
+  <img alt="skills" src="https://skillicons.dev/icons?i=js,react,nextjs,ts,vite,jest,graphql,redux,git,materialui,bootstrap,tailwind,sass,css,html" />
 
 <br />
 
