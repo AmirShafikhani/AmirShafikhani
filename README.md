@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=0:308a71,100:15416e&height=240&text=AmirShafikhani&desc=front-end-developer&animation=fadeIn&fontColor=f5f5f5&fontSize=50&fontAlignY=35&descAlignY=50)
 
-<p>Hi, I am a 20-year-old individual residing in Iran. chasing my passion and building my career path, eager to embrace new challenges and grow both personally and professionally. I possess strong adaptability and communication skills, enabling effective collaboration with diverse teams. I am driven by a passion for learning and am committed to making a positive impact in any role I undertake. So, with all that said I am and will be trying to learn more and more about this amazing field of science that I love in order to make all lives around this globe of ours easier and better.
+<p>Hi, I am a 22-year-old individual residing in Iran. chasing my passion and building my career path, eager to embrace new challenges and grow both personally and professionally. I possess strong adaptability and communication skills, enabling effective collaboration with diverse teams. I am driven by a passion for learning and am committed to making a positive impact in any role I undertake. So, with all that said I am and will be trying to learn more and more about this amazing field of science that I love in order to make all lives around this globe of ours easier and better.
 </p>
 
 <br />
